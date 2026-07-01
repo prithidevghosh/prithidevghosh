@@ -1,30 +1,67 @@
 <h1 align="center">Hi 👋, I'm Prithidev</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">Backend Engineer · Shipping production LLM systems end-to-end · Founder of <a href="https://getaskube.com">Askube</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prithidevghosh&label=Profile%20views&color=0e75b6&style=flat" alt="prithidevghosh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithidevghosh" alt="prithidevghosh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/prithidevghosh" target="blank"><img src="https://img.shields.io/twitter/follow/prithidevghosh?logo=twitter&style=for-the-badge" alt="prithidevghosh" /></a> </p>
-
-- 🔭 I’m currently working on [Namma Yatri Backend](https://github.com/prithidevghosh/Namma_Yatri_Development)
-
-- 🌱 I’m currently learning **mysql**
-
-- 👯 I’m looking to collaborate on **web development projects**
-
-- 💬 Ask me about **express , mongoDB**
-
-- 📫 How to reach me **prithidevghosh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/prithidevghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prithidevghosh" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1ARjVv7T1FtE5Lm6iHO4ohrw3YeoXCAER/view">
+    <img src="https://img.shields.io/badge/🏆_Top_100_of_31,000_teams-Meta_x_HuggingFace_x_PyTorch_OpenEnv_Hackathon-blueviolet?style=for-the-badge" alt="Top 100 of 31,000 teams" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prithidevghosh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://twitter.com/prithidevghosh"><img src="https://img.shields.io/twitter/follow/prithidevghosh?logo=twitter&style=flat" alt="twitter" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prithidevghosh&show_icons=true&locale=en&layout=compact" alt="prithidevghosh" /></p>
+## 🚀 What I'm building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prithidevghosh&" alt="prithidevghosh" /></p>
+**[Askube](https://getaskube.com)** — GenAI content-repurposing SaaS, live in production, built solo
+
+- One video → LinkedIn posts, X threads, auto-captioned clips & newsletters in the creator's brand voice, in ~58s
+- Full pipeline end-to-end: transcription, LLM generation, clip detection, video chat (RAG), subscription billing, publishing to 5+ platforms
+- `Python` `FastAPI` `LLM pipeline` `Docker`
+
+**[MindFlayer](https://github.com/prithidevghosh/mindflayer)** — RL environment for emergent LLM deception 🏆 *Top 100 / 31,000 teams*
+
+- A trainable LLM agent (Qwen2.5-0.5B) learns to deceive three fixed GPT-4o-mini investigators, scored by an LLM judge on a Theory-of-Mind taxonomy
+- SFT warmup + 500-step GRPO · ToM score 0.041 → 0.103 · anti-reward-hacking penalties converged to zero
+- Live on [Hugging Face Spaces](https://prithvigg-mindflayer.hf.space) · `PyTorch` `GRPO` `TRL` `OpenEnv`
+
+**[Kneedle](https://www.kaggle.com/competitions/gemma-4-good-hackathon/writeups/new-writeup-1778944799466)** — on-device health AI for osteoarthritis patients
+
+- Offline-first gait analysis + Gemma-powered conversational AI (Google Gemma 4 Good Hackathon)
+- `Gemma` `on-device inference`
+
+## 💼 Day job
+
+Software Engineer @ **Signzy** — identity-verification infrastructure used by 20+ financial institutions across India, UAE & MENA. Cut an e-Stamp service from 60s to under 2s. `FastAPI` `Redis` `MongoDB` `Elasticsearch` `Argo CD`
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+</p>
+
+## 📊 Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prithidevghosh&show_icons=true&locale=en&layout=compact" alt="top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithidevghosh" alt="streak stats" />
+</p>
+
+## 📫 Reach me
+
+**prithidevghosh@gmail.com** · [LinkedIn](https://www.linkedin.com/in/prithidev-ghosh-35a664224/) · [X/Twitter](https://twitter.com/prithidevghosh) · [getaskube.com](https://getaskube.com)
