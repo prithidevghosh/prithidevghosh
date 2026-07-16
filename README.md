@@ -20,6 +20,13 @@
 - Full pipeline end-to-end: transcription, LLM generation, clip detection, video chat (RAG), subscription billing, publishing to 5+ platforms
 - `Python` `FastAPI` `LLM pipeline` `Docker`
 
+**[blackbox](https://github.com/prithidevghosh/blackbox)** — fully local flight recorder for dev work <a href="https://www.npmjs.com/package/@prithidevghosh/blackbox"><img src="https://img.shields.io/npm/v/%40prithidevghosh%2Fblackbox?logo=npm&label=npm&color=CB3837" alt="npm" /></a>
+
+- Records terminal commands, AI-agent sessions & git commits into local semantic memory — ask *"what broke the deploy"* in plain English, get cited answers; drafts standups & RCAs with a local LLM
+- ⚡ flashback: when a failure repeats, the fix that worked last time appears right under the failed command
+- 100% local & private (secrets redacted before ingestion) · 50 unit tests + autonomous e2e harness · npm releases via OIDC trusted-publishing CI with SLSA provenance
+- `Node.js` `zsh hooks` `Supermemory Local` `Ollama`
+
 **[MindFlayer](https://github.com/prithidevghosh/mindflayer)** — RL environment for emergent LLM deception 🏆 *Top 100 / 31,000 teams*
 
 - A trainable LLM agent (Qwen2.5-0.5B) learns to deceive three fixed GPT-4o-mini investigators, scored by an LLM judge on a Theory-of-Mind taxonomy
@@ -59,7 +66,7 @@ Software Engineer @ **Signzy** — identity-verification infrastructure used by 
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithidevghosh" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=prithidevghosh" alt="streak stats" />
 </p>
 
 ## 📫 Reach me
