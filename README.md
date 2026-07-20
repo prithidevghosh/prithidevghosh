@@ -38,10 +38,6 @@
 - Offline-first gait analysis + Gemma-powered conversational AI (Google Gemma 4 Good Hackathon)
 - `Gemma` `on-device inference`
 
-## 💼 Day job
-
-Software Engineer @ **Signzy** — identity-verification infrastructure used by 20+ financial institutions across India, UAE & MENA. Cut an e-Stamp service from 60s to under 2s. `FastAPI` `Redis` `MongoDB` `Elasticsearch` `Argo CD`
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
